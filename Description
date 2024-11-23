@@ -1,0 +1,14 @@
+Password Strength Checker
+
+Description
+This Python-based Password Strength Checker helps users create robust and secure passwords by assessing their strength against essential criteria: length, uppercase and lowercase letters, numbers, and special characters. The tool offers real-time feedback and categorizes passwords as "Very Weak" to "Very Strong," ensuring better security for online accounts.  
+
+Tech Stack 
+- Programming Language: Python  
+- Library: `re` (for regex-based pattern matching)  
+
+Features 
+- Evaluates password strength on five parameters.  
+- Provides actionable feedback for improvement.  
+- Lightweight, user-friendly, and ideal for educational or personal security projects.  
+
